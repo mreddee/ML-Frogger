@@ -1,2 +1,2 @@
-# Progetto Per il corso di Computer Graphics e Multimedia
+# Progetto per il corso di Computer Graphics e Multimedia
 ## ML Frogger
