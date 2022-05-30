@@ -20,3 +20,7 @@
 ## Link al gioco originale
 
 https://github.com/Blankeos/frogger-unity
+
+## Link alla documentazione relativa agli iperparametri
+
+https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md
