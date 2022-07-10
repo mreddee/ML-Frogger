@@ -8,7 +8,7 @@ L'obiettivo del gioco è quello di occupare tutte e 5 le postazioni (homes) post
 
 ## Esecuzione del gioco
 
-Premendo il pulsante play il gioco viene avviato nella modalità di inferenza. Il gameplay viene controllato da un agente addestrato a superare i vari livelli del gioco. Per controllare il gameplay tramite l'input dell'utente è necessario impostare l'opzione \heuristic only\.
+Premendo il pulsante play il gioco viene avviato nella modalità di inferenza. Il gameplay viene controllato da un agente addestrato a superare i vari livelli del gioco. Per controllare il gameplay tramite l'input dell'utente è necessario impostare l'opzione *heuristic only*.
 
 ## Strategia utilizzata
 
