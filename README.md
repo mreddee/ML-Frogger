@@ -1,4 +1,4 @@
-# 🐸 Frogger | Made with Unity
+# 🐸 ML-Frogger
 
 https://we.tl/t-8H3BRwNy2v
 
