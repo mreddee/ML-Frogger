@@ -10,6 +10,8 @@ L'obiettivo del gioco è quello di occupare tutte e 5 le postazioni (homes) post
 
 Premendo il pulsante play il gioco viene avviato nella modalità di inferenza. Il gameplay viene controllato da un agente addestrato a superare i vari livelli del gioco. Per controllare il gameplay tramite l'input dell'utente è necessario impostare l'opzione *heuristic only*.
 
+Per un corretto funzionamento del gioco è necessario impostare un rapporto d'aspetto 1:1 per l'inquadratura.
+
 ## Strategia utilizzata
 
 Il modello utilizzato dall'agente per prevedere le azioni da compiere è stato addestrato utilizzando il toolkit di Unity ML-Agents. Il modello utilizzato è stato ricavato dopo 5 milioni di steps di training. Per l'addestramento si è deciso di usare la strategia dell'imitation learning. Questa prevede di utilizzare delle dimostrazioni del gioco registrate dall'utente per migliorare le performance dell'agente.
