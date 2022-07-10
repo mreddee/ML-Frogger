@@ -2,4 +2,6 @@
 
 https://we.tl/t-8H3BRwNy2v
 
-![demo.gif](demo.gif)
+<p align="center">
+  <img width="460" height="300" src="demo.gif">
+</p>
