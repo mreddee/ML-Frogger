@@ -2,6 +2,12 @@
 
 Repository github per il progetto del corso Computer Graphics e Multimedia 2021-2022.
 
+## Membri del gruppo
+
+- Cuicchi Manila
+- Giannelli Edoardo
+- Pierigè Giacomo
+
 ## Obiettivo del gioco
 
 L'obiettivo del gioco è quello di occupare tutte e 5 le postazioni (homes) poste dall'altra parte della riva senza essere colpiti dai veicoli ed evitando di cadere in acqua. L'agente ha a disposizione 30 secondi per superare il livello. Superato il livello, il gioco ricomincia dall'inizio.
