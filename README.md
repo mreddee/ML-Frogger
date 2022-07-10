@@ -32,8 +32,6 @@ Il modello utilizzato dall'agente per prevedere le azioni da compiere è stato a
 
 ## Demo
 
-Al seguente link è disponibile una demo registrata dell'agente mentre supera i primi 5 livelli del gioco:
-
-https://we.tl/t-8H3BRwNy2v
+Al seguente link è disponibile una demo registrata dell'agente mentre supera i primi 5 livelli del gioco: https://we.tl/t-8H3BRwNy2v
 
 <p align="center"><img width="500" height="500" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/demo.gif"></p>
