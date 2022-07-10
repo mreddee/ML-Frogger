@@ -30,6 +30,14 @@ Il modello utilizzato dall'agente per prevedere le azioni da compiere è stato a
 - +0.05 per ogni passo in avanti fatto sulla strada
 - +0.5 per ogni passo in avanti fatto sui tronchi o sulle tartarughe
 
+## Link al gioco originale
+
+https://github.com/Blankeos/frogger-unity
+
+## Link ai file di configurazione di esempio proposti da ML-Agents
+
+https://github.com/Unity-Technologies/ml-agents/tree/main/config/imitation
+
 ## Demo
 
 Al seguente link è disponibile una demo registrata dell'agente mentre supera i primi 5 livelli del gioco: https://we.tl/t-8H3BRwNy2v
