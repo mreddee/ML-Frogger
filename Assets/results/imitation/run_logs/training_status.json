@@ -1,0 +1,65 @@
+{
+    "Frogger": {
+        "checkpoints": [
+            {
+                "steps": 3499477,
+                "file_path": "results/imitation/Frogger/Frogger-3499477.onnx",
+                "reward": 10.399999618530273,
+                "creation_time": 1657176350.257776,
+                "auxillary_file_paths": [
+                    "results/imitation/Frogger/Frogger-3499477.pt"
+                ]
+            },
+            {
+                "steps": 3998996,
+                "file_path": "results/imitation/Frogger/Frogger-3998996.onnx",
+                "reward": null,
+                "creation_time": 1657187803.601755,
+                "auxillary_file_paths": [
+                    "results/imitation/Frogger/Frogger-3998996.pt"
+                ]
+            },
+            {
+                "steps": 4498205,
+                "file_path": "results/imitation/Frogger/Frogger-4498205.onnx",
+                "reward": 15.699999809265137,
+                "creation_time": 1657199779.842803,
+                "auxillary_file_paths": [
+                    "results/imitation/Frogger/Frogger-4498205.pt"
+                ]
+            },
+            {
+                "steps": 4999947,
+                "file_path": "results/imitation/Frogger/Frogger-4999947.onnx",
+                "reward": null,
+                "creation_time": 1657211535.6330261,
+                "auxillary_file_paths": [
+                    "results/imitation/Frogger/Frogger-4999947.pt"
+                ]
+            },
+            {
+                "steps": 5000024,
+                "file_path": "results/imitation/Frogger/Frogger-5000024.onnx",
+                "reward": 16.700000762939453,
+                "creation_time": 1657211535.738179,
+                "auxillary_file_paths": [
+                    "results/imitation/Frogger/Frogger-5000024.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 5000024,
+            "file_path": "results/imitation/Frogger.onnx",
+            "reward": 16.700000762939453,
+            "creation_time": 1657211535.738179,
+            "auxillary_file_paths": [
+                "results/imitation/Frogger/Frogger-5000024.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1"
+    }
+}
