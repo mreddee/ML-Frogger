@@ -1,26 +1,12 @@
-# 🐸 ML-Frogger
+# 🐸 Frogger | Made with Unity
 
-## Progressi
+One of the small games in Unity I'm making to relearn and master Unity's fundamentals.
 
-- Modificata la gestione dell'input per integrare il gioco con ML-agents
-- Aggiunta la classe dell'agente
-  - Aggiunte le osservazioni
-  - Aggiunte le azioni
-  - Aggiunta la funzione per l'euristica
-  - Aggiunte le ricompense
-- Eliminato il Game Over
-- Eliminate le vite (vite infinite)
-- Eseguito un primo addestramento dell'agente
+This project is based on [Zigurous's Youtube Video on How to make Frogger in Unity](https://www.youtube.com/watch?v=GxlxZ5q__Tc)
 
-## Problematiche
+## 📝 My Improvements
 
-- Scelta degli iperparametri di training
-- La rana tende ad andare sulla stessa casa più volte
+- **More consistent Grid Movement.** I didn't use Coroutines for the movement as the destination could end up on inconsistent float values for the transform. I restricted the destination at y but not x since the home-zones don't exist on a rounded grid cell at x. Queuing the movement from one coroutine to the next also leads to inconsistent float values for the transform. I used a movePoint for moving at a rounded value and the transform of the frogger, just follows it.
+- **Animator.** Used Unity's animation system instead of just changing the sprites via code.
 
-## Link al gioco originale
-
-https://github.com/Blankeos/frogger-unity
-
-## Link alla documentazione relativa agli iperparametri
-
-https://github.com/Unity-Technologies/ml-agents/blob/main/docs/Training-Configuration-File.md
+![demo.gif](demo.gif)
