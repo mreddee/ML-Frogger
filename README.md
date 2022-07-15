@@ -51,7 +51,7 @@ L'addestramento di default viene eseguito con un *time_scale* pari a 20. L'utili
 
 Sono state effettuate 3 diverse run di addestramento, sperimentando diversi valori di forza dell'imitazione. Maggiore è il valore della forza dell'imitazione (*behavioral cloning strenght*), maggiore sarà l'influenza delle dimostrazioni registrate nella scelta della azioni da parte dell'agente durante la fase di training.
 
-I risultati migliori sono stati ottenuti ponendo *behavioral cloning strenght = 0.8*, cioè dando un grosso peso all'imitazione delle azioni registrate. Nonostante ciò la strategia imparata dall'agente per superare il livello, pur essendo simile ed egualmente efficace a quella di esempio, risulta diversa. Si può concludere che l'agente pur imitatando il comportamento dell'utente, è riuscito a generalizzare ed individuare una strategia alternativa grazie all'utilizzo di segnali estrinseci di ricompensa e di curiosità.
+I risultati migliori sono stati ottenuti ponendo *behavioral cloning strenght = 0.8*, cioè dando un grosso peso all'imitazione delle azioni registrate. Nonostante ciò la strategia imparata dall'agente per superare il livello, pur essendo simile ed egualmente efficace a quella di esempio, differisce in alcuni aspetti (ordine in cui le case vengono occupate). Si può concludere che l'agente pur imitatando il comportamento dell'utente, è riuscito a generalizzare ed individuare una strategia alternativa grazie all'utilizzo di segnali estrinseci di ricompensa e di curiosità.
 
 I risultati delle 3 run sono disponibili al percorso Assets/results. Di seguito vengono mostrati i risultati del training in funzione del numero di steps.
 
