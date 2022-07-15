@@ -57,22 +57,22 @@ I risultati delle 3 run sono disponibili al percorso Assets/results. Di seguito 
 
 <p align="left">
 <img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training1.png">
-<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training2.png">
+<img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training2.png">
 </p>
 
 <p align="left">
-<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training3.png">
-<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training4.png">
+<img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training3.png">
+<img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training4.png">
 </p>
 
 <p align="left">
-<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training5.png">
-<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training6.png">
+<img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training5.png">
+<img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training6.png">
 </p>
 
 <p align="left">
-<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training7.png">
-<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training8.png">
+<img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training7.png">
+<img width="400" height="180" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training8.png">
 </p>
 
 ## Link al gioco originale
