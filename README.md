@@ -16,7 +16,9 @@ L'obiettivo del gioco è quello di occupare tutte e 5 le postazioni (homes) post
 
 Premendo il pulsante play il gioco viene avviato nella modalità di inferenza. Il gameplay viene controllato da un agente addestrato a superare i vari livelli del gioco. Per controllare il gameplay tramite l'input dell'utente è necessario impostare l'opzione *heuristic only*.
 
-Per un corretto funzionamento del gioco è necessario impostare un rapporto d'aspetto 1:1 per l'inquadratura.
+Per un corretto funzionamento del gioco è necessario impostare un rapporto d'aspetto 1:1 per l'inquadratura. Utilizzando un diverso rapporto d'aspetto, verrebbe modificata la logica di alcuni componenti del gioco, rendendo impossibile per l'agente superare il livello. Infatti, il tragitto percorso da tronchi e tartarughe è influenzato dalla larghezza della camera che inquadra la scena.
+
+Le prestazioni dell'agente sono, inoltre, influenzate dalla fisica della scena. I risultati presentati nel video demo sono stati ottenuti imponendo un *fixed_time_step* pari a 0.003.
 
 ## Modifiche apportate al gioco
 
