@@ -33,7 +33,7 @@ Le prestazioni dell'agente sono, inoltre, influenzate dalla fisica della scena. 
 
 Il modello utilizzato dall'agente per prevedere le azioni da compiere è stato addestrato utilizzando il toolkit di Unity ML-Agents. Il modello utilizzato è stato ricavato dopo 5 milioni di steps di training. Per l'addestramento si è deciso di usare la strategia dell'imitation learning. Questa prevede di utilizzare delle dimostrazioni del gioco registrate dall'utente per migliorare le performance dell'agente.
 
-La scelta degli iperparametri è stata effettuata a partire dai file di configurazione di configurazione di esempio proposti da ML-Agents. In particolare, è stata utilizzata la configurazione proposta per il gioco Pyramids, variando i seguenti iperparametri:
+La scelta degli iperparametri è stata effettuata a partire dai file di configurazione di esempio proposti da ML-Agents. In particolare, è stata utilizzata la configurazione proposta per il gioco Pyramids, variando i seguenti iperparametri:
 - forza dell'imitazione (*behavioral_cloning_strenght*)
 - orizzonte temporale (*time_horizon*)
 - numero di steps su cui applicare l'imitazione (*behavioral_cloning_steps*)
