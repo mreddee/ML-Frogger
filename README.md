@@ -38,7 +38,7 @@ La scelta degli iperparametri è stata effettuata a partire dai file di configur
 - orizzonte temporale (*time_horizon*)
 - numero di steps su cui applicare l'imitazione (*behavioral_cloning_steps*)
 
-L'addestramento di default viene eseguito con un *time_scale* pari a 20. L'utilizzo di una velocità così elevata combinata con la struttura del gioco e l'utilizzo di dimostrazioni (registrate a velocità naturale) ha portato a pessimi risultati durante il training (il gameplay non riesce a superare la strada). Per tale ragione si è deciso di svolgere le varie run di training con un *time_scale* pari a 1, ovvero a velocità naturale. 
+L'addestramento di default viene eseguito con un *time_scale* pari a 20. L'utilizzo di una velocità così elevata combinata con l'implementazione del gioco e l'utilizzo di dimostrazioni (registrate a velocità naturale) ha portato a pessimi risultati durante il training (il gameplay non riesce a superare la strada). Per tale ragione si è deciso di svolgere le varie run di training con un *time_scale* pari a 1, ovvero a velocità naturale. 
 
 ## Ricompense
 
