@@ -56,7 +56,7 @@ I risultati migliori sono stati ottenuti ponendo *behavioral cloning strenght = 
 I risultati delle 3 run sono disponibili al percorso Assets/results. Di seguito vengono mostrati i risultati del training in funzione del numero di steps.
 
 <p align="left">
-<img width="500" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training1.png">
+<img width="400" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training1.png">
 <img width="500" height="200" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/Risultati%20training/risultati%20training2.png">
 </p>
 
