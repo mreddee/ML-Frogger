@@ -85,6 +85,6 @@ https://github.com/Unity-Technologies/ml-agents/tree/main/config/imitation
 
 ## Demo
 
-Al seguente link è disponibile una demo registrata dell'agente mentre supera i primi 5 livelli del gioco: https://we.tl/t-urzF9FHtge
+Nella directory principale del repository è presente un video demo, che mostra il superamento del primo livello da parte dell'agente.
 
 <p align="center"><img width="500" height="500" src="https://github.com/Giacomo-pierig/ML-Frogger/blob/main/demo.gif"></p>
